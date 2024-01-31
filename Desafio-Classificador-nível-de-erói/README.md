@@ -25,4 +25,4 @@ Se XP for maior ou igual a 10.001 = Radiante
 ## Saída
 
 Ao final deve se exibir uma mensagem:
-"O Herói de nome {nome} está no nível de {nivel}"
+"O Herói de nome {nome} está no nível de {nivel}."
